@@ -13,6 +13,11 @@ Links below are additional resources.
 * Wearables and monitoring of health - lack of protection/privacy of user health data(pp 246-248)
 
 
+### Cybersecurity
+
+* NotPetya's impact on Merck, and the court case with its insurers whether this counts as an 'act of war'. [Bloomberg, 3 Dec 2019](https://www.bloomberg.com/news/features/2019-12-03/merck-cyberattack-s-1-3-billion-question-was-it-an-act-of-war)
+
+
 ### Payments
 
 * Chinese central bank approves licence for PayPal to provide domestic and cross border web and mobile payments services in China by end 2019. [FT, 27 Oct 2019]
